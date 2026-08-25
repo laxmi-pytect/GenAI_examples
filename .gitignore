@@ -1,0 +1,7 @@
+.env
+myenv/
+chatbot.ipynb
+test1.py
+test2.py
+__pycache__/
+
