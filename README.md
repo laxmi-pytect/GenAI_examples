@@ -1,2 +1,2 @@
 # GenAI_examples
-A collection of examples to build Gen AI models
+A collection of examples of Gen AI usage
